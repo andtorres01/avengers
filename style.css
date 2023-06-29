@@ -1,0 +1,30 @@
+body{
+    font-size: large;
+    background-color: #454545;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #FF00FF;
+    text-align: center;
+}
+#avenger{
+    width: 650px;
+    margin: auto;
+}
+.menu {
+    color: rgb(108, 192, 192);
+}
+.semititulo{
+    color: rgb(216, 216, 84)
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(240, 7, 116);
+}
+.palabrasclave {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    color: green;
+}
+
+
